@@ -1,0 +1,16 @@
+:root {
+    --background: #ffffff;
+    --text: #000000;
+    --primary: #007bff;
+    --secondary: #6c757d;
+  }
+  
+  body {
+    background-color: var(--background);
+    color: var(--text);
+  }
+  
+  button {
+    background-color: var(--primary);
+    color: var(--text);
+  }
